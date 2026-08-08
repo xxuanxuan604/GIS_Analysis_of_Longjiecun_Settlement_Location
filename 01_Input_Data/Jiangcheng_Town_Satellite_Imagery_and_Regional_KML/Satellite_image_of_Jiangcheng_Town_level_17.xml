@@ -1,0 +1,86 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="EXIF_BitsPerSample">8 8 8</MDI>
+    <MDI key="EXIF_ColorSpace">65535</MDI>
+    <MDI key="EXIF_Compression">1</MDI>
+    <MDI key="EXIF_Copyright">Copyright (c) 2025 BIGEMAP</MDI>
+    <MDI key="EXIF_DateTime">2025:10:27 15:04:56</MDI>
+    <MDI key="EXIF_ImageDescription">BIGEMAP MapDownloader</MDI>
+    <MDI key="EXIF_Orientation">1</MDI>
+    <MDI key="EXIF_PhotometricInterpretation">2</MDI>
+    <MDI key="EXIF_PixelXDimension">14144</MDI>
+    <MDI key="EXIF_PixelYDimension">17217</MDI>
+    <MDI key="EXIF_PlanarConfiguration">1</MDI>
+    <MDI key="EXIF_ResolutionUnit">2</MDI>
+    <MDI key="EXIF_SamplesPerPixel">3</MDI>
+    <MDI key="EXIF_Software">Adobe Photoshop 22.3 (Windows)</MDI>
+    <MDI key="EXIF_XResolution">(72)</MDI>
+    <MDI key="EXIF_YResolution">(72)</MDI>
+  </Metadata>
+  <Metadata domain="IMAGE_STRUCTURE">
+    <MDI key="SOURCE_COLOR_SPACE">YCbCr</MDI>
+    <MDI key="INTERLEAVE">PIXEL</MDI>
+    <MDI key="COMPRESSION">JPEG</MDI>
+  </Metadata>
+  <Metadata domain="xml:XMP" format="xml">
+    <?xpacket begin="&#xFEFF;" id="W5M0MpCehiHzreSzNTczkc9d"?>
+    <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c006 79.164753, 2021/02/15-11:52:13        ">
+      <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+        <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmp:CreatorTool="Adobe Photoshop 22.3 (Windows)" xmp:CreateDate="2025-10-27T15:00:29+08:00" xmp:ModifyDate="2025-10-27T15:04:56+08:00" xmp:MetadataDate="2025-10-27T15:04:56+08:00" dc:rights="Copyright (c) 2025 BIGEMAP" dc:format="image/jpeg" photoshop:ColorMode="3" xmpMM:InstanceID="xmp.iid:3a381f79-8238-224d-bd6c-74082fecbd2e" xmpMM:DocumentID="adobe:docid:photoshop:53ef4634-c31a-f744-bce8-1c13725953a1" xmpMM:OriginalDocumentID="xmp.did:ece86e56-2209-a243-889a-e390a114b86e">
+          <dc:description>
+            <rdf:Alt>
+              <rdf:li xml:lang="x-default">BIGEMAP MapDownloader</rdf:li>
+            </rdf:Alt>
+          </dc:description>
+          <xmpMM:History>
+            <rdf:Seq>
+              <rdf:li stEvt:action="created" stEvt:instanceID="xmp.iid:ece86e56-2209-a243-889a-e390a114b86e" stEvt:when="2025-10-27T15:00:29+08:00" stEvt:softwareAgent="Adobe Photoshop 22.3 (Windows)" />
+              <rdf:li stEvt:action="converted" stEvt:parameters="from image/tiff to image/jpeg" />
+              <rdf:li stEvt:action="saved" stEvt:instanceID="xmp.iid:3a381f79-8238-224d-bd6c-74082fecbd2e" stEvt:when="2025-10-27T15:04:56+08:00" stEvt:softwareAgent="Adobe Photoshop 22.3 (Windows)" stEvt:changed="/" />
+            </rdf:Seq>
+          </xmpMM:History>
+        </rdf:Description>
+      </rdf:RDF>
+    </x:xmpmeta>
+    <?xpacket end="w"?>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">249</MDI>
+      <MDI key="STATISTICS_MEAN">74.068990349993</MDI>
+      <MDI key="STATISTICS_STDDEV">43.540811754003</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">2</MDI>
+      <MDI key="STATISTICS_MAXIMUM">244</MDI>
+      <MDI key="STATISTICS_MEAN">81.593643477843</MDI>
+      <MDI key="STATISTICS_STDDEV">36.276440737685</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">0</MDI>
+      <MDI key="STATISTICS_MAXIMUM">217</MDI>
+      <MDI key="STATISTICS_MEAN">55.116712276153</MDI>
+      <MDI key="STATISTICS_STDDEV">30.892513095084</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+    <Metadata domain="IMAGE_STRUCTURE">
+      <MDI key="COMPRESSION">JPEG</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
