@@ -1,1 +1,2 @@
 01_Input_Data/Jiangcheng_Town_Satellite_Imagery_and_Regional_KML/Satellite_image_of_Jiangcheng_Town_level_17.tif filter=lfs diff=lfs merge=lfs -text
+01_Input_Data/Yuxi_Urban_Area_DEM/dem5m.tif filter=lfs diff=lfs merge=lfs -text
